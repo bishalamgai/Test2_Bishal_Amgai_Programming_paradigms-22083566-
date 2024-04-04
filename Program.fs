@@ -51,21 +51,20 @@ let movies = [
     
 ]
 
-
-
-
-let oscarWinners = movies |> List.filter (fun movie -> movie.IMDbRating > 7.4)
-
-
-
-
-
 let convertRunLength (runLength: int) =
     let hours = runLength / 60
     let minutes = runLength % 60
     sprintf "%dh %dmin" hours minutes
 
 let runLengthsInHours = movies |> List.map (fun movie -> convertRunLength movie.RunLength)
+
+printfn "All the Movies are:"
+movies |> List.iter (fun movie -> printfn "%s - %s" movie.Name (convertRunLength movie.RunLength))
+
+
+let oscarWinners = movies |> List.filter (fun movie -> movie.IMDbRating > 7.4)
+
+
 
 
 
