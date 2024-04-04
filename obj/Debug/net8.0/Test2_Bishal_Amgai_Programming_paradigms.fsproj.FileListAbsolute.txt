@@ -27,3 +27,4 @@ C:\Users\Owner\Documents\Third Semester\Programming Paradigms\Dotnet\Test2_Bisha
 C:\Users\Owner\Documents\Third Semester\Programming Paradigms\Dotnet\Test2_Bishal_Amgai_Programming_paradigms\obj\Debug\net8.0\Test2_Bishal_Amgai_Programming_paradigms.pdb
 C:\Users\Owner\Documents\Third Semester\Programming Paradigms\Dotnet\Test2_Bishal_Amgai_Programming_paradigms\obj\Debug\net8.0\Test2_Bishal_Amgai_Programming_paradigms.genruntimeconfig.cache
 C:\Users\Owner\Documents\Third Semester\Programming Paradigms\Dotnet\Test2_Bishal_Amgai_Programming_paradigms\obj\Debug\net8.0\ref\Test2_Bishal_Amgai_Programming_paradigms.dll
+C:\Users\Owner\Documents\Third Semester\Programming Paradigms\Dotnet\Test2_Bishal_Amgai_Programming_paradigms\obj\Debug\net8.0\Test2_Bishal_Amgai_Programming_paradigms.sourcelink.json
